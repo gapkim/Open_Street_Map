@@ -1,4 +1,0 @@
-Map area: Coppell, TX, United States
-https://www.openstreetmap.org/export#map=12/32.9547/-97.0151
-
-This is an area that I am familiar with. I want to explore the database and see what information is available.
